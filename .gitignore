@@ -1,0 +1,15 @@
+.vs/
+.vscode/
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+x64/
+x86/
+TestResults/
+*.user
+*.suo
+*.sln.docstates
+*.userosscache
+*.log
+Thumbs.db
